@@ -1,0 +1,16 @@
+D:\AP17_Artur_Bobb\AP17_Artur_Bobb\bin\Debug\AP17_Artur_Bobb.exe
+D:\AP17_Artur_Bobb\AP17_Artur_Bobb\bin\Debug\AP17_Artur_Bobb.pdb
+D:\AP17_Artur_Bobb\AP17_Artur_Bobb\obj\x86\Debug\Ironman_Auswertung.Form1.resources
+D:\AP17_Artur_Bobb\AP17_Artur_Bobb\obj\x86\Debug\Ironman_Auswertung.Properties.Resources.resources
+D:\AP17_Artur_Bobb\AP17_Artur_Bobb\obj\x86\Debug\AP17_Artur_Bobb.csproj.GenerateResource.Cache
+D:\AP17_Artur_Bobb\AP17_Artur_Bobb\obj\x86\Debug\AP17_Artur_Bobb.exe
+D:\AP17_Artur_Bobb\AP17_Artur_Bobb\obj\x86\Debug\AP17_Artur_Bobb.pdb
+K:\AP17_Artur_Bobb\ArturBobbAP\AP17_Artur_Bobb\AP17_Artur_Bobb\obj\x86\Debug\AP17_Artur_Bobb.exe
+K:\AP17_Artur_Bobb\ArturBobbAP\AP17_Artur_Bobb\AP17_Artur_Bobb\obj\x86\Debug\AP17_Artur_Bobb.pdb
+K:\AP17_Artur_Bobb\ArturBobbAP\AP17_Artur_Bobb\AP17_Artur_Bobb\bin\Debug\AP17_Artur_Bobb.exe
+K:\AP17_Artur_Bobb\ArturBobbAP\AP17_Artur_Bobb\AP17_Artur_Bobb\bin\Debug\AP17_Artur_Bobb.pdb
+K:\AP17_Artur_Bobb\ArturBobbAP\AP17_Artur_Bobb\AP17_Artur_Bobb\obj\x86\Debug\Ironman_Auswertung.Form1.resources
+K:\AP17_Artur_Bobb\ArturBobbAP\AP17_Artur_Bobb\AP17_Artur_Bobb\obj\x86\Debug\Ironman_Auswertung.Properties.Resources.resources
+K:\AP17_Artur_Bobb\ArturBobbAP\AP17_Artur_Bobb\AP17_Artur_Bobb\obj\x86\Debug\AP17_Artur_Bobb.csproj.GenerateResource.Cache
+H:\AP17_Artur_Bobb\ArturBobbAP\AP17_Artur_Bobb\AP17_Artur_Bobb\obj\x86\Debug\AP17_Artur_Bobb.exe
+H:\AP17_Artur_Bobb\ArturBobbAP\AP17_Artur_Bobb\AP17_Artur_Bobb\obj\x86\Debug\AP17_Artur_Bobb.pdb
